@@ -95,7 +95,7 @@ Cloning means downloading your fork to your computer.
 ```bash
 git clone https://github.com/your-username/git-chaos.git
 cd git-chaos
-````
+```
 
 ## 5. Find an issue to work on 🔍
 
@@ -180,6 +180,9 @@ Closes #12
 5. Click **Create pull request**
 
 Done 🎉
+
+Here’s an example of a [pull request](https://github.com/cumbucadev/git-chaos/pull/4) so you can
+see what it looks like.
 
 ## What happens next? 🙋
 
