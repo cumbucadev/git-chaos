@@ -23,8 +23,7 @@ Goodbye!
 
 ## Step 3: Save your file
 
-* After writing your message, don’t forget to **save** the file so your changes are
-  kept.
+* After writing your message, don’t forget to **save** the file so your changes are kept.
 
 Example: You can check how your file should look here: [camilamaia.txt](https://github.com/cumbucadev/git-chaos/blob/main/chaos/task_1/camilamaia.txt)
 
