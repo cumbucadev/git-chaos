@@ -20,8 +20,20 @@ Before jumping in and making your first contributions, it’s important to under
 a few core concepts that will make your journey into open source much smoother.
 These include version control, Git, and GitHub.
 
+This repository is part of a learning journey created by the Cumbuca Dev initiative 💜
+
+It’s based on the book **"[Git e GitHub para Humanos](https://git-e-github.para-humanos.cumbuca.dev/)"** (Git and GitHub for Humans), which also accompanies a video-based course called [GitHub Essentials](https://linuxtips.io/treinamento/github-essentials/).
+
+The material is free and beginner-friendly, but it’s currently only available in
+Portuguese (PT-BR). If you don’t speak Portuguese, feel free to use any translation
+tool that works best for you — that’s totally part of the process here.
+
 If these terms are new to you, or if you just want a quick refresher, we recommend
 checking out the resources below.
+
+We intentionally combine **official documentation** with **beginner-friendly content**.
+Official docs are the source of truth, while our materials focus on making things
+more accessible — especially for those starting out.
 
 ### What is Version Control? 📂
 
@@ -30,10 +42,11 @@ code over time. It ensures that multiple people can work on the same project
 without overwriting each other’s work. It’s a fundamental part of collaboration in
 open source projects.
 
-To learn more about version control and how it works, check out section `2.1` of
-the *Git and GitHub for Humans* book:
+**📘 Official documentation:**
+- https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 
-- <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/2.1-introducao-a-sistemas-de-controle-de-versao>
+**💜 Beginner-friendly (PT-BR):**
+- https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/2.1-introducao-a-sistemas-de-controle-de-versao
 
 ### What is Git? 🧑‍💻
 
@@ -44,12 +57,16 @@ collaborate in an organized way.
 With Git, you can create branches to work on new features, keep a history of your
 changes, and easily merge your work back into the main project.
 
+**📘 Official documentation:**
+- https://git-scm.com/book/en/v2/Getting-Started-What-is-Git
+
+**💜 Beginner-friendly (PT-BR):**
 To dive deeper into Git, we suggest reading chapters `2`, `3`, and `4` of the
 *Git and GitHub for Humans* book:
 
-- <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/>
-- <https://git-e-github.para-humanos.cumbuca.dev/3.-operacoes-locais-basicas-no-git/>
-- <https://git-e-github.para-humanos.cumbuca.dev/4.-ajuste-de-mudancas-locais-no-git/>
+- https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/
+- https://git-e-github.para-humanos.cumbuca.dev/3.-operacoes-locais-basicas-no-git/
+- https://git-e-github.para-humanos.cumbuca.dev/4.-ajuste-de-mudancas-locais-no-git/
 
 ### What is GitHub? 🌐
 
@@ -58,11 +75,15 @@ manage code repositories. Besides allowing developers to share code publicly or
 privately, GitHub provides tools that support collaboration, such as issue
 tracking, pull requests, and automations that improve workflow efficiency.
 
-- <https://git-e-github.para-humanos.cumbuca.dev/5.-introducao-ao-github>
-
 GitHub is where you’ll create your fork of the project and submit your
 contributions for review and integration. This is all part of the collaborative
 workflow.
+
+**📘 Official documentation:**
+- https://docs.github.com/en/get-started/start-your-journey/about-github-and-git#about-github
+
+**💜 Beginner-friendly (PT-BR):**
+- https://git-e-github.para-humanos.cumbuca.dev/5.-introducao-ao-github
 
 ## Task 1
 

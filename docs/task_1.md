@@ -33,14 +33,22 @@ Now it’s time to start contributing!
 If you don’t have a GitHub account yet, that’s your first step. GitHub is where we
 host and collaborate on the project.
 
-- <https://git-e-github.para-humanos.cumbuca.dev/5.-introducao-ao-github/5.7-criando-uma-conta-pessoal-no-github>
+**📘 Official documentation:**
+- https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github
+
+**💜 Beginner-friendly (PT-BR):**
+- https://git-e-github.para-humanos.cumbuca.dev/5.-introducao-ao-github/5.7-criando-uma-conta-pessoal-no-github>
 
 ## 2. Install Git 💻
 
 To contribute, you’ll need Git, the version control system that helps track code
 changes.
 
-- <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/2.4-instalando-o-git>
+**📘 Official documentation:**
+- https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+**💜 Beginner-friendly (PT-BR):**
+- https://git-e-github.para-humanos.cumbuca.dev/3-prazer-git/2.4-instalando-o-git
 
 ## 3. Fork the Project 🍴
 
@@ -197,3 +205,8 @@ see what it looks like.
 * Move on to the next task
 
 Congrats on your first open source contribution! 🚀
+
+Everything we build at [Cumbuca Dev](https://cumbuca.dev/) is free and made for the community 💜  
+If this helped you, consider supporting us on GitHub Sponsors and help us keep creating more accessible learning experiences.
+
+👉 https://github.com/sponsors/cumbucadev
